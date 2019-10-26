@@ -1,0 +1,9 @@
+# Jupyter notebook#
+###################
+.ipynb_checkpoints
+__pycache__
+
+
+# Data #
+########
+data
